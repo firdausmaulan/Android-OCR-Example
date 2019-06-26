@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "161820976224",
+    "firebase_url": "https://halodoc-survey.firebaseio.com",
+    "project_id": "halodoc-survey",
+    "storage_bucket": "halodoc-survey.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:161820976224:android:b2460ddfc11e4ee9",
+        "android_client_info": {
+          "package_name": "com.hd.survey"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "161820976224-e1srp9cqgitpvp84al584ag68qlvm2e2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.hd.survey",
+            "certificate_hash": "3541386c939c740ef38b4873c07c28136891eb48"
+          }
+        },
+        {
+          "client_id": "161820976224-hg4s19s58c2gmthdjtqc2lqrbe4u67s5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDNmuoSmRQDOv4AGIsZK6DVFsggT6Wq-Qg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "161820976224-hg4s19s58c2gmthdjtqc2lqrbe4u67s5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

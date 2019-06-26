@@ -1,0 +1,6 @@
+mobile-vision/.idea/
+tesseract-java/.idea/
+tesseract-kotlin/.idea/encodings.xml
+mobile-vision/gradle/wrapper/gradle-wrapper.jar
+tesseract-java/gradle/wrapper/gradle-wrapper.jar
+tesseract-kotlin/gradle/wrapper/gradle-wrapper.jar
